@@ -3,7 +3,7 @@
 <head>
 <meta charset = UTF-8>
 <style>
-.deer {background-image:url("lessthan3.png");}
+.deer {background-image:url("Cardiacarest.png");}
 .left {float: left;}
 img {width: 450px; height: 450px; padding: 5px;}
 .auto {margin: auto;}
